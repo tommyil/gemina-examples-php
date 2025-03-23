@@ -2,7 +2,7 @@
 /****************************************************
  * Gemina API Example in PHP (single file)
  * 
- * This script performs the following:
+ * This script performs the following logic:
  *   1. Upload an image (either from disk or via URL).
  *   2. Repeatedly poll the API for prediction results
  *      until a final status (200) or an error occurs.

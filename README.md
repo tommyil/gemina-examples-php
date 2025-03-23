@@ -41,7 +41,7 @@ Here is a **sample single-file PHP script**:
     /****************************************************
      * Gemina API Example in PHP (single file)
      * 
-     * This script replicates Node.js/TypeScript logic:
+     * This script performs the following logic:
      *   1. Upload an invoice (local or remote).
      *   2. Poll until the prediction is ready or fails.
      ****************************************************/
