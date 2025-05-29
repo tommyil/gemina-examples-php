@@ -363,6 +363,9 @@ Below is a **sample** final output (your numbers may differ):
 - **LLM Integration**  
   https://github.com/tommyil/gemina-examples/blob/master/llm_integration.md
 
+- **Line Item Integration**  
+  https://github.com/tommyil/gemina-examples/blob/master/line_items.md
+
 - **Python Implementation**  
   https://github.com/tommyil/gemina-examples
 
